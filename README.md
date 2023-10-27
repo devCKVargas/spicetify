@@ -45,5 +45,9 @@ curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/mai
 spicetify backup apply
 ```
 
-Run `Spotify` and you should see **Marketplace** below Search on the sidebar.
+Run `Spotify` and you should see **Marketplace** below Search on the sidebar. <br>
 ![Marketplace location](/assets/image.png)
+
+***If you like my work, please consider:***
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J1QJINW)
